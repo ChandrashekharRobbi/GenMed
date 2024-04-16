@@ -7,6 +7,12 @@
 
 
 
+
+https://github.com/ChandrashekharRobbi/GenMed/assets/91750738/fbd8db9f-a46d-40dc-a31f-7427dfdc8e4c
+
+
+
+
 ## Overview
 This chatbot serves as a helpful tool for users seeking information on generic medication prices and locating the nearest Jan Aushadi Kendra. It utilizes data from various sources and leverages natural language processing capabilities.
 
