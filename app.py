@@ -36,7 +36,7 @@ st.sidebar.markdown("""
 def main():
     # tabs for 1 for searching medicine price and another for searching kendra by pincode
     # HIDE THIS IF WE ARE GOING TO DEPLOY
-    OPENAI_API_KEY = "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"
+    OPENAI_API_KEY = "YOUR API KEY"
     
     with get:
         data = curr_location()
